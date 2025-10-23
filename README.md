@@ -1,2 +1,2 @@
 # GITHUB-WORKSHOP
-Author-Akshata
+Author-Akshata Gaonkar
